@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/riverita/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/res/merged/debug/layout-land/activity_main.xml",
+        "source": "/Users/riverita/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/src/main/res/layout-land/activity_main.xml"
+    },
+    {
+        "merged": "/Users/riverita/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/build/intermediates/res/merged/debug/layout-land/barcode_capture.xml",
+        "source": "/Users/riverita/AndroidStudioProjects/android-vision/visionSamples/barcode-reader/app/src/main/res/layout-land/barcode_capture.xml"
+    }
+]
